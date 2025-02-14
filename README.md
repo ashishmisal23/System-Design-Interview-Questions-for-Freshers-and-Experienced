@@ -5,9 +5,9 @@ This document contains a curated list of fundamental system design interview que
 
 > Click :star: if you like the project. 
 > Pull Requests are highly appreciated.  
-> Follow me on LinkedIn [@ashishmisal](https://linkedin.com/in/ashishmisal) for technical updates, career advice, and the latest trends in SQL and software development.  
-> Join my WhatsApp Channel Here: [Software Dev](https://whatsapp.com/channel/0029VasCWHy6GcG8NAVVpj2j) to receive timely updates, tips, and discussions on SQL, database management, and more.  
-> This repository contains a collection of System Design interview questions and answers to help you ace your interviews and build a solid foundation in SQL. Perfect for beginners and experienced professionals alike!
+> Follow me on LinkedIn [@ashishmisal](https://linkedin.com/in/ashishmisal) for technical updates, career advice, and the latest trends in System Design and software development.  
+> Join my WhatsApp Channel Here: [Software Dev](https://whatsapp.com/channel/0029VasCWHy6GcG8NAVVpj2j) to receive timely updates, tips, and tech discussions and more.  
+> This repository contains a collection of System Design interview questions and answers to help you ace your interviews and build a solid foundation in System Design. Perfect for beginners and experienced professionals alike!
 
 ---
 
